@@ -1,0 +1,5 @@
+.env
+logs/
+data/incoming/*.csv
+__pycache__/
+*.pyc
